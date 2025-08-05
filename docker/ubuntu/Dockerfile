@@ -1,7 +1,7 @@
 # Request Baskets service (latest)
 # Version 1.1
 
-FROM ubuntu
+FROM ubuntu:24.10
 
 MAINTAINER Vladimir L, vladimir_l@gmx.net
 
